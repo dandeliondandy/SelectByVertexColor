@@ -26,7 +26,6 @@ It adds a small panel in Blender's sidebar. You pick a color from a face on your
 
 All matching faces are now selected. You just saved yourself a lot of clicking.
 
-![A GIF or image showing the workflow: select face, click eyedropper, click select](URL_FOR_YOUR_WORKFLOW_IMAGE_HERE)
 
 ## Other Controls
 

@@ -4,7 +4,7 @@ Selecting hundreds of faces by hand just because they share a specific vertex co
 
 It adds a small panel in Blender's sidebar. You pick a color from a face on your model, click a button, and all the faces with that same color get selected. It's that simple.
 
-![Screenshot of the addon's UI panel in Blender](URL_FOR_YOUR_UI_IMAGE_HERE)
+![Screenshot of the addon's UI panel in Blender](SelectByVertexColor.png)
 
 ## Installation
 

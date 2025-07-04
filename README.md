@@ -2,7 +2,7 @@
 
 Selecting hundreds of faces by hand just because they share a specific vertex color is a great way to waste an afternoon. This addon lets you do it in about five seconds.
 
-It adds a small panel in Blender's sidebar. You pick a color from a face on your model, click a button, and all the faces with that same color get selected. It's that simple.
+It adds a small panel in Blender's sidebar. You pick select a face, grab its color, click a button, and all the faces with that same color get selected. It's that simple.
 
 ![Screenshot of the addon's UI panel in Blender](SelectByVertexColor.png)
 
